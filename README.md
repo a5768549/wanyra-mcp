@@ -1,5 +1,7 @@
 # Wanyra MCP Server (`@star1age/wanyra-mcp`)
 
+[![Wanyra MCP server](https://glama.ai/mcp/servers/a5768549/wanyra-mcp/badge.svg)](https://glama.ai/mcp/servers/a5768549/wanyra-mcp)
+
 Zero-dependency [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for **[Wanyra API](https://api.star1age.cn/en)** by [Star1Age](https://star1age.cn).
 
 Give Claude Code, Cursor, Codex, Windsurf, Cline, or any MCP client direct access to **81 live GA multimodal AI models**—including 23 video generation models (`MiniMax H3`, `Seedance 2.0/2.5`, `Kling 3.0 Omni`, `Wan 3.0/2.7`, `Vidu Q3/Q2 Pro`, `Hailuo H3`, `HappyHorse 1.1`), 22 LLMs (`Claude`, `GPT`, `Gemini`, `DeepSeek`, `Qwen`, `Grok`), 23 image models, and 7 audio models—behind a single OpenAI-compatible pay-as-you-go gateway.
