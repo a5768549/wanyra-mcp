@@ -1,0 +1,46 @@
+{
+  "name": "@star1age/wanyra-mcp",
+  "version": "1.0.0",
+  "description": "MCP (Model Context Protocol) server for Wanyra API (api.star1age.cn) — query 81 live multimodal AI models & pricing, run chat, image, and async video generation (MiniMax H3, Seedance 2.0, Kling 3.0, Wan 3.0, Vidu Q3) from Claude Code, Cursor, Codex, and any MCP client.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "wanyra-mcp": "./bin/wanyra-mcp.mjs"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node ./bin/wanyra-mcp.mjs",
+    "test": "node ./test/mcp-smoke.test.mjs"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "wanyra",
+    "star1age",
+    "openai-compatible",
+    "ai-video",
+    "multimodal-ai",
+    "seedance",
+    "kling",
+    "minimax",
+    "claude-code",
+    "cursor"
+  ],
+  "homepage": "https://api.star1age.cn/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a5768549/wanyra-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/a5768549/wanyra-mcp/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
