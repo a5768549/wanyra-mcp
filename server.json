@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.a5768549/wanyra-mcp",
-  "title": "Wanyra MCP Server (81 Live Multimodal AI Models)",
-  "description": "Zero-dependency stdio MCP server for Wanyra API (api.star1age.cn): query 81 live GA multimodal models & real-time pricing without an API key, and run chat, image, and async video generation.",
+  "title": "Wanyra MCP Server (83 Live Multimodal AI Models)",
+  "description": "MCP server for Wanyra API (api.star1age.cn): 83 multimodal models, live pricing, chat & video.",
   "repository": {
     "url": "https://github.com/a5768549/wanyra-mcp",
     "source": "github"
