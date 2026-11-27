@@ -55,3 +55,8 @@ npm test
 ## License
 
 MIT
+
+## Live Status & Guides
+
+- **Live Model Availability & Verification (`/status`)**: [api.star1age.cn/status](https://api.star1age.cn/status) — 15-minute automated SSE heartbeat + daily deep verification (system prompt, prompt cache, reasoning ladder, tool calling); JSON feed at `/api/portal/public-api/model-health`.
+- **Integration Guides**: [api.star1age.cn/guides](https://api.star1age.cn/guides) (Cherry Studio, Cursor, Cline, OpenRouter migration, model verification).
